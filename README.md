@@ -16,9 +16,9 @@ Next, to activate Google authentication in Firebase, go to Build > Authenticatio
 Open your code editor (such as VS Code) and navigate to the project directory. Then, open a terminal and run the following command.
 
 # TO RUN THE PROJECT
-CLONE THE PROJECT TO YOUR LOCAL WITH git clone.
-npm install/npm i
-npm start
+**CLONE THE PROJECT TO YOUR LOCAL WITH git clone.
+**npm install/npm i
+**npm start
 
 
 
